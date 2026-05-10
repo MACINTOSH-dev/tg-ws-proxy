@@ -216,4 +216,4 @@ Tray-приложение хранит данные в:
 
 ## Лицензия
 
-[MIT License](LICENSE)
+all rights reserved (macintosh) 
